@@ -45,4 +45,5 @@ process.on("SIGINT", async () => {
 }
 });
 
-module.exports=app
+
+module.exports = app
